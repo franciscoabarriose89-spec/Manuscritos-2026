@@ -1,0 +1,31 @@
+{
+  "name": "Biblioteca pública de Manuscritos 2026",
+  "description": "Catálogo de los manuscritos PDF disponibles en franciscoabarriose89-spec/Manuscritos-2026.",
+  "repository": "https://github.com/franciscoabarriose89-spec/Manuscritos-2026",
+  "documents": [
+    {
+      "title": "Manuscrito Formal Noether–Kähler–Nicolescu",
+      "filename": "Manuscrito Formal Noether-Kähler-Nicolescu (1).pdf",
+      "topics": ["Noether", "Kähler", "Nicolescu", "manuscrito formal"],
+      "url": "https://github.com/franciscoabarriose89-spec/Manuscritos-2026/blob/main/Manuscrito%20Formal%20Noether-K%C3%A4hler-Nicolescu%20%281%29.pdf"
+    },
+    {
+      "title": "Manuscrito canónico",
+      "filename": "Manuscrito canonico. (1).pdf",
+      "topics": ["manuscrito canónico"],
+      "url": "https://github.com/franciscoabarriose89-spec/Manuscritos-2026/blob/main/Manuscrito%20canonico.%20%281%29.pdf"
+    },
+    {
+      "title": "Transformada de Amador",
+      "filename": "Manuscrito- Transformada de Amador.pdf",
+      "topics": ["Transformada de Amador"],
+      "url": "https://github.com/franciscoabarriose89-spec/Manuscritos-2026/blob/main/Manuscrito-%20Transformada%20de%20Amador.pdf"
+    },
+    {
+      "title": "Unificación Aritmética en Lean 4",
+      "filename": "Unificación Aritmética en Lean 4.pdf",
+      "topics": ["aritmética", "Lean 4", "unificación"],
+      "url": "https://github.com/franciscoabarriose89-spec/Manuscritos-2026/blob/main/Unificaci%C3%B3n%20Aritm%C3%A9tica%20en%20Lean%204.pdf"
+    }
+  ]
+}
